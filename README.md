@@ -1,0 +1,2 @@
+# solinia-technicmodpack
+solinia-technicmodpack
